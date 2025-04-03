@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 📚 I have completed **Frontend Development Course by Udemy**
-- 🌱 I’m currently learning **React.js** and working on my own project
+- 🌱 I’m currently working on my own Project in **React.js**
 - 🎯 My goal is to become a **Frontend Developer**
 - 💻 I love working with **JavaScript, Tailwind CSS & Bootstrap**
 - ⚡ Fun Fact: I’m a **vegetarian** 🥗

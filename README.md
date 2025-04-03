@@ -1,6 +1,6 @@
 ## Hi there, I'm Barun! 👋
 
-![Banner](https://raw.githubusercontent.com/barundas97/YourUsername/main/banner.png)
+![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **React.js & Frontend Development**
@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&cache_seconds=1800" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=barundas97&show_icons=true&theme=dark&cache_seconds=1800" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" width="400px"/>
 </div>
 
@@ -38,5 +38,5 @@
 ---
 
 ### 🌍 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/barundas97)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/barun-das-97bd)

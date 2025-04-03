@@ -25,7 +25,6 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)

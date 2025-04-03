@@ -3,7 +3,8 @@
 ![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **React.js & Frontend Development**
+- 📚 I have completed **Frontend Development Course by Udemy**
+- 🌱 I’m currently learning **React.js** and working on my own project
 - 🎯 My goal is to become a **Frontend Developer**
 - 💻 I love working with **JavaScript, Tailwind CSS & Bootstrap**
 - ⚡ Fun Fact: I’m a **vegetarian** 🥗
@@ -20,7 +21,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
-#### 🛠 Dev Tools
+#### 🛠 Dev & AI Tools
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
@@ -30,13 +35,14 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barundas97&show_icons=true&theme=dark&cache_seconds=1800" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barundas97&theme=dark" width="400px"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barundas97&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
 ### 🌍 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barundas800@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/barundas97)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/barun-das-97bd)

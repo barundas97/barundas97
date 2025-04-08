@@ -3,15 +3,21 @@
 ![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 
 ### 🚀 About Me
-- 📚 I have completed **Frontend Development Course by Udemy**
-- 🌱 I’m currently working on my own Project in **React.js**
+- 📚 I recently accomplished **Frontend Development Course by Udemy**
+- 🌱 Currently, I am working on my own exciting projects to showcase the skills and knowledge I have learnt
 - 🎯 My goal is to become a **Frontend Developer**
 - 💻 I love working with **JavaScript, Tailwind CSS & Bootstrap**
-- ⚡ Fun Fact: I’m a **vegetarian** 🥗
+- 🤝 I enjoy collaborating with others and learning through teamwork.
+- 📘 Always curious, I love exploring new tech and building real-world applications.
 
 ---
 
-### 🛠️ Tech Stack
+### 📜 Certification
+- 🏅 [Complete Modern Frontend Web Development - Udemy Certificate](https://www.udemy.com/certificate/UC-0b11bd06-1142-49f1-bce8-c927b76853eb/)
+
+---
+
+### 🗑️ Tech Stack
 
 #### 💻 Languages & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,7 +27,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
-#### 🛠 Dev & AI Tools
+#### 🗑 Dev & AI Tools
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)

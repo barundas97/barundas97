@@ -3,7 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 
 ### 🚀 About Me
-- 📚 I recently accomplished **Frontend Development Course by Udemy**
+- 📚 I recently accomplished **Modern Frontend Web-Development Course by Udemy**
 - 🌱 Currently, I am working on my own exciting projects to showcase the skills and knowledge I have learnt
 - 🎯 My goal is to become a **Frontend Developer**
 - 💻 I love working with **JavaScript, Tailwind CSS & Bootstrap**

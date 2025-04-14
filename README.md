@@ -1,4 +1,4 @@
-## Hi there, I'm Barun! 👋
+## Hi, I'm Barun! 👋
 
 ![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 

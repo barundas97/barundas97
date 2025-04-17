@@ -8,7 +8,7 @@
 - 🎯 My goal is to become a **Frontend Developer**
 - 💻 I love working with **JavaScript, Tailwind CSS & Bootstrap**
 - 🤝 I enjoy collaborating with others and learning through teamwork.
-- 📘 Always curious, I love exploring new tech and building real-world applications.
+- 📘 I love exploring new tech and building real-world applications.
 
 ---
 

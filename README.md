@@ -3,10 +3,10 @@
 ![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 
 ### 🚀 About Me
-- 📚 I recently accomplished **Modern Frontend Web-Development Course by Udemy**
-- 🌱 Currently, I am working on my own exciting projects to showcase the skills and knowledge I have learnt
+- 📚 I completion certificate on **Modern Frontend Web-Development Course by Udemy**
+- 🌱 Currently, I am working on my own exciting real applications for more upgrade my skills & knowledge.
 - 🎯 My goal is to become a **Frontend Developer**
-- 💻 I love working with **JavaScript, Tailwind CSS & Bootstrap**
+- 💻 I love working with **React js,JavaScript, Tailwind CSS & Bootstrap**
 - 🤝 I enjoy collaborating with others and learning through teamwork.
 - 📘 I love exploring new tech and building real-world applications.
 

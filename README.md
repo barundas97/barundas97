@@ -3,7 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 
 ### 🚀 About Me
-- 📚 I completion certificate on **Modern Frontend Web-Development Course by Udemy**
+- 📚 I have completion certificate on **Modern Frontend Web-Development Course by Udemy**
 - 🌱 Currently, I am working on my own exciting real applications for more upgrade my skills & knowledge.
 - 🎯 My goal is to become a **Frontend Developer**
 - 💻 I love working with **React js,JavaScript, Tailwind CSS & Bootstrap**

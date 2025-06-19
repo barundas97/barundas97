@@ -22,14 +22,6 @@
 
 ---
 
-### 💼 Projects
-- **Jewellery Store Web Application**  
-  A modern and responsive web application showcasing a jewellery store with an elegant user interface, product gallery, and interactive elements. Designed with HTML and Bootstrap 5.3, it demonstrates expertise in crafting visually appealing and user-friendly websites.  
-  - **GitHub Repository**: [Jewellery Store](https://github.com/barundas97/Jewellery_Store)  
-  - **Live Demo**: [Jewellery Store Live Demo](https://trinayonii.netlify.app)
-
----
-
 ### 🗑️ Tech Stack
 
 #### 💻 Languages & Tools

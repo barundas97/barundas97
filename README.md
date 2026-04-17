@@ -57,7 +57,7 @@ I'm a collaborative team player who values continuous learning, clean design, an
   <img src="https://github-readme-stats.vercel.app/api?username=barundas97&show_icons=true&theme=dark&cache_seconds=1800" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=barundas97&theme=dark" width="400px"/>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barundas97&layout=compact&theme=dark&cache_seconds=1800)
+
  
 ---
  

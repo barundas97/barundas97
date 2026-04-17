@@ -3,12 +3,12 @@
 ![Banner](https://raw.githubusercontent.com/barundas97/barundas97/main/banner.png)
 
 ### 🚀 About Me
-- 📚 I have completion certificate on **Modern Frontend Web-Development Course by Udemy**
-- 🌱 Currently, I am working on my own exciting real applications for more upgrade my skills & knowledge.
-- 🎯 My goal is to become a **Frontend Developer**
-- 💻 I love working with **React js,JavaScript, Tailwind CSS & Bootstrap**
-- 🤝 I enjoy collaborating with others and learning through teamwork.
-- 📘 I love exploring new tech and building real-world applications.
+
+I'm a passionate and detail-oriented **Frontend Developer** with a strong foundation in modern web technologies. I hold a certification in **Modern Frontend Web Development from Udemy**, which has equipped me with hands-on expertise in building scalable and responsive user interfaces.
+
+I thrive on turning ideas into real-world applications — writing clean, maintainable code and crafting seamless user experiences. My core stack includes **React.js, JavaScript, Tailwind CSS, and Bootstrap**, and I'm constantly pushing my boundaries by working on personal projects that challenge me to grow both technically and creatively.
+
+I'm a collaborative team player who values continuous learning, clean design, and building products that make a difference. Currently, I'm deepening my skills by developing full-featured applications from the ground up, with a focus on performance, accessibility, and modern UI/UX principles.
 
 ---
 
@@ -21,14 +21,14 @@
 - 🏅 [Complete Modern Frontend Web Development - Udemy Certificate](https://www.udemy.com/certificate/UC-0b11bd06-1142-49f1-bce8-c927b76853eb/)
 
 ---
-
+<!-- 
 ### 💼 Projects
 - **Jewellery Store Web Application**  
   A modern and responsive web application showcasing a jewellery store with an elegant user interface, product gallery, and interactive elements. Designed with HTML and Bootstrap 5.3, it demonstrates expertise in crafting visually appealing and user-friendly websites.  
   - **GitHub Repository**: [Jewellery Store](https://github.com/barundas97/Jewellery_Store)  
   - **Live Demo**: [Jewellery Store Live Demo](https://trinayonii.netlify.app)
 
----
+--- -->
 
 ### 🗑️ Tech Stack
 
@@ -40,10 +40,14 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+#### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
 #### 🛠 Dev & AI Tools
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -61,6 +65,6 @@
 ---
 
 ### 🌍 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barundas800@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasbarun201411@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barundas97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barun-das-97bd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barun-das-a37a7114b/)
